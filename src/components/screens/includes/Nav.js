@@ -5,7 +5,9 @@ import {Link} from 'react-router-dom';
 export default function Nav() {
     return (
             <Header>
+                <Link to='/sports-app'>
                     <Heading>Jasu's Sports App</Heading>
+                </Link>
                 <Ul>
                 <Link to='/sports-app'>
                     <Items className="active">Matches</Items>
@@ -30,6 +32,8 @@ const Header = styled.header`
 
 const Heading = styled.h1`
     font-size: 46px;
+    color: #DD0543;
+    cursor: pointer;
 `;
 
 const Ul = styled.ul`
