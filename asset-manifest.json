@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/sports-app/static/css/main.d4669379.chunk.css",
-    "main.js": "/sports-app/static/js/main.5a21e33b.chunk.js",
-    "main.js.map": "/sports-app/static/js/main.5a21e33b.chunk.js.map",
+    "main.js": "/sports-app/static/js/main.245fc758.chunk.js",
+    "main.js.map": "/sports-app/static/js/main.245fc758.chunk.js.map",
     "runtime-main.js": "/sports-app/static/js/runtime-main.5cf4c299.js",
     "runtime-main.js.map": "/sports-app/static/js/runtime-main.5cf4c299.js.map",
-    "static/js/2.db5dc17d.chunk.js": "/sports-app/static/js/2.db5dc17d.chunk.js",
-    "static/js/2.db5dc17d.chunk.js.map": "/sports-app/static/js/2.db5dc17d.chunk.js.map",
+    "static/js/2.bdc3c5b2.chunk.js": "/sports-app/static/js/2.bdc3c5b2.chunk.js",
+    "static/js/2.bdc3c5b2.chunk.js.map": "/sports-app/static/js/2.bdc3c5b2.chunk.js.map",
     "static/js/3.2b3555e4.chunk.js": "/sports-app/static/js/3.2b3555e4.chunk.js",
     "static/js/3.2b3555e4.chunk.js.map": "/sports-app/static/js/3.2b3555e4.chunk.js.map",
     "index.html": "/sports-app/index.html",
     "static/css/main.d4669379.chunk.css.map": "/sports-app/static/css/main.d4669379.chunk.css.map",
-    "static/js/2.db5dc17d.chunk.js.LICENSE.txt": "/sports-app/static/js/2.db5dc17d.chunk.js.LICENSE.txt"
+    "static/js/2.bdc3c5b2.chunk.js.LICENSE.txt": "/sports-app/static/js/2.bdc3c5b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5cf4c299.js",
-    "static/js/2.db5dc17d.chunk.js",
+    "static/js/2.bdc3c5b2.chunk.js",
     "static/css/main.d4669379.chunk.css",
-    "static/js/main.5a21e33b.chunk.js"
+    "static/js/main.245fc758.chunk.js"
   ]
 }
