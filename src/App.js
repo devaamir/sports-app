@@ -11,9 +11,9 @@ function App() {
       <Router>
         <Nav />
           <Switch>
-            <Route path="/Sports-App" exact><Matches /></Route>
-            <Route path="/Sports-App/Table"><Table /></Route>
-            <Route path="/Sports-App/News"><News /></Route>
+            <Route path="/sports-app" exact><Matches /></Route>
+            <Route path="/sports-app/table"><Table /></Route>
+            <Route path="/sports-app/news"><News /></Route>
           </Switch>
       </Router>
     </>

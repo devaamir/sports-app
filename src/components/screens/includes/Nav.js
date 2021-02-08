@@ -7,13 +7,13 @@ export default function Nav() {
             <Header>
                     <Heading>Jasu's Sports App</Heading>
                 <Ul>
-                <Link to='/Sports-App'>
+                <Link to='/sports-app'>
                     <Items className="active">Matches</Items>
                 </Link>
-                <Link to='/Sports-App/Table'>
+                <Link to='/sports-app/table'>
                     <Items>Table</Items>
                 </Link>
-                <Link to='/Sports-App/News'>
+                <Link to='/sports-app/news'>
                     <Items>News</Items>
                 </Link>
                 </Ul>
