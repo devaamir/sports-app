@@ -1,0 +1,123 @@
+{
+    "data" : [ {
+        "id" : 1,
+        "team" : "Athletico Madrid",
+        "MP" : "19",
+        "W" : "16",
+        "D" : "2",
+        "L" : "1",
+        "GF" : "40",
+        "GA" : "10",
+        "GD" : "30",
+        "Pts" : "50",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Atletico_Madrid_2017_logo.svg/1200px-Atletico_Madrid_2017_logo.svg.png"
+    }, {
+        "id" : 2,
+        "team" : "FC Barcelona",
+        "MP" : "21",
+        "W" : "13",
+        "D" : "4",
+        "L" : "4",
+        "GF" : "44",
+        "GA" : "20",
+        "GD" : "24",
+        "Pts" : "43",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png"
+    }, {
+        "id" : 3,
+        "team" : "Real Madrid",
+        "MP" : "20",
+        "W" : "12",
+        "D" : "4",
+        "L" : "4",
+        "GF" : "35",
+        "GA" : "18",
+        "GD" : "17",
+        "Pts" : "40",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png"
+    }, {
+        "id" : 4,
+        "team" : "Sevilla",
+        "MP" : "20",
+        "W" : "12",
+        "D" : "3",
+        "L" : "5",
+        "GF" : "28",
+        "GA" : "16",
+        "GD" : "12",
+        "Pts" : "39",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/1200px-Sevilla_FC_logo.svg.png"
+    }, {
+        "id" : 5,
+        "team" : "Villarreal",
+        "MP" : "21",
+        "W" : "8",
+        "D" : "11",
+        "L" : "2",
+        "GF" : "29",
+        "GA" : "20",
+        "GD" : "9",
+        "Pts" : "35",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Villarreal_CF_logo.svg/1200px-Villarreal_CF_logo.svg.png"
+    }, {
+        "id" : 6,
+        "team" : "Real Beties",
+        "MP" : "21",
+        "W" : "9",
+        "D" : "3",
+        "L" : "9",
+        "GF" : "27",
+        "GA" : "34",
+        "GD" : "-7",
+        "Pts" : "30",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png"
+    }, {
+        "id" : 10,
+        "team" : "Athletic Club",
+        "MP" : "21",
+        "W" : "7",
+        "D" : "4",
+        "L" : "10",
+        "GF" : "28",
+        "GA" : "26",
+        "GD" : "2",
+        "Pts" : "25",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/1200px-Club_Athletic_Bilbao_logo.svg.png"
+    }, {
+        "id" : 7,
+        "team" : "Real Sociedad",
+        "MP" : "21",
+        "W" : "8",
+        "D" : "8",
+        "L" : "5",
+        "GF" : "32",
+        "GA" : "19",
+        "GD" : "12",
+        "Pts" : "32",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png"
+    }, {
+        "id" : 8,
+        "team" : "Granada",
+        "MP" : "22",
+        "W" : "8",
+        "D" : "6",
+        "L" : "8",
+        "GF" : "26",
+        "GA" : "36",
+        "GD" : "-10",
+        "Pts" : "30",
+        "img" : "https://static.wikia.nocookie.net/fifa/images/b/b2/Granada_CF.png"
+    }, {
+        "id" : 9,
+        "team" : "Levante",
+        "MP" : "21",
+        "W" : "6",
+        "D" : "9",
+        "L" : "6",
+        "GF" : "31",
+        "GA" : "31",
+        "GD" : "0",
+        "Pts" : "27",
+        "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/1200px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png"
+    } ]
+}
