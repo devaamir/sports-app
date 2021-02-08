@@ -1,5 +1,22 @@
 {
     "data" : [ {
+      "id" : 6,
+      "t1g" : "2",
+      "t1lg" : "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png",
+      "t2g" : "3",
+      "t2lg" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png",
+      "team1" : "Real Beties",
+      "team2" : "Fc Barcelona",
+      "title" : "La liga",
+      "titledet" : "Matchday 22 of 38",
+      "date" : "",
+      "time" : "",
+      "currenttime" : "Full Time",
+      "bnimgt1" : "https://www.thenationalnews.com/image/policy:1.722711:1524045612/079166-01-02.jpg",
+      "bnimgt2" : "https://cdn.vox-cdn.com/thumbor/1JRtqvZ6nZdGuG_7PXwdN2hSsVE=/0x0:2918x1946/1200x800/filters:focal(1205x127:1671x593)/cdn.vox-cdn.com/uploads/chorus_image/image/68784398/1300889825.0.jpg",
+      "gscrt1" : [ "Borja Iglesias 38'","Víctor Ruiz 75'" ],
+      "gscrt2" :[ "Lionel Messi 59'","Victor Ruiz 68(OG)'", "Francisco Trincao 87'" ]
+    }, {
       "id" : 1,
       "t1g" : "3",
       "t1lg" : "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
