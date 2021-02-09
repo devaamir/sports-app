@@ -8,6 +8,7 @@ export default function Matches() {
     const [singleMatch,setSingleMatch] = useState([]);
     const [goalScorers1,setGoalScorers1] = useState([]);
     const [goalScorers2,setGoalScorers2] = useState([]);
+    const sectionToFocus = React.createRef();
 
     useEffect(() => {
             axios
@@ -28,18 +29,28 @@ export default function Matches() {
             });
     }, []);
 
+    // let gotoSection = (event) => {
+    //     //.current is verification that your element has rendered
+        
+    // }
+
     let selectOne = (id) => {
         setSingleMatch([matches.find((match) => match.id === id)]);
         // const set = (singleMatch.find((match => match)));
         setGoalScorers1((matches.find((match) => match.id === id)).gscrt1);
         setGoalScorers2((matches.find((match) => match.id === id)).gscrt2);
+        if (sectionToFocus.current) {
+            sectionToFocus.current.scrollIntoView({
+                behavior: "smooth",
+            });
+        }
     }
 
     return (
         <div>
                 <Main>
                 {singleMatch.map((selmatch) => ( <>
-                    <Top>
+                    <Top ref={sectionToFocus}>
                     <TeamImg src={selmatch.bnimgt1} alt="Player1" />
                     <TeamImg src={selmatch.bnimgt2} alt="Player2" />
                     </Top>
